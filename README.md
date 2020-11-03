@@ -1,0 +1,1 @@
+Uses webpack 5
